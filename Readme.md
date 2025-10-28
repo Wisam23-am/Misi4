@@ -24,4 +24,30 @@ Demo di `Main.java` mendemonstrasikan fungsionalitas inti:
 
 ---
 
+## ⚙️ Cara Menjalankan (Compile & Run)
+
+Pastikan Anda memiliki **Java Development Kit (JDK)** terinstal di sistem Anda.
+
+1.  **Buka Terminal/Command Prompt**
+    Arahkan terminal Anda ke *root folder* proyek (folder yang berisi direktori `com`).
+
+2.  **Compile Semua File .java**
+    Jalankan perintah berikut untuk meng-compile semua file source code:
+
+    ```bash
+    javac com\pcbuilder\core\Main.java
+    ```
+
+3.  **Jalankan Showcase Demo**
+    Setelah kompilasi berhasil (tidak ada error), jalankan kelas `Main` dengan *fully qualified name* (termasuk nama package):
+
+    ```bash
+    java com.pcbuilder.core.Main
+    ```
+
+4.  **Output yang Diharapkan**
+    Anda akan melihat output laporan build PC dari `Main.java` (dan laporan customer) tercetak di konsol Anda.
+
+---
+
 ## 📂 Struktur Package (com.pcbuilder)
