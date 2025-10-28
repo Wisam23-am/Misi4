@@ -50,4 +50,20 @@ Pastikan Anda memiliki **Java Development Kit (JDK)** terinstal di sistem Anda.
 
 ---
 
+## 📖 Refleksi Tim (Team Reflections)
+
+### 💡 Momen “Aha!” Terbesar
+* **Wisam (3124600041):** Berhasil membuat tampilan `Readme.md` yang sebelumnya dikira sulit.
+* **Mahda (3124600032):** Berhasil melakukan refactoring dengan pola *move method* dan mengerti perbedaan praktis antara agregasi dan komposisi dalam relasi kelas Java.
+
+### ⚠️ Kelemahan Terbesar
+* **Wisam (3124600041):** Kurang teliti dalam menata dan mengatur package dan import dalam direktori.
+* **Mahda (3124600032):** Terlalu fokus pada misi 1 sehingga misi 2 tertinggal, dan sempat bingung menentukan hubungan komposisi/agregasi di UML.
+
+### 🏆 Skill Baru Paling Berharga
+* **Wisam (3124600041):** Menata package dan import file, serta pemahaman yang lebih baik tentang relasi Class Diagram.
+* **Mahda (3124600032):** Membuat Class Diagram dari nol dan menulis dokumentasi `README.md` yang baik.
+
+---
+
 ## 📂 Struktur Package (com.pcbuilder)
